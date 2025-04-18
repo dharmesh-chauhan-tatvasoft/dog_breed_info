@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dog Breed Info</string>
+    <string name="search_breeds">Search breeds…</string>
+    <string name="size">Size -</string>
+    <string name="temperament">Temperament -</string>
+    <string name="life_span">Life Span -</string>
+</resources>
